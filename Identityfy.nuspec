@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Identityfy</id>
+    <version>1.0.2</version>
+    <title>Identityfy</title>
+    <authors>Aytekin Erlale</authors>
+    <owners>Aytekin</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/Aytekin/Identityfy</projectUrl>
+    <description>Identityfy is a plugin that verifies the numbers that are unique produced by an algorithm.</description>
+    <releaseNotes>Turkey Republic Identity Number Validation and random valid Turkey Republic Identity Number genarator methods added. </releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>Validation Identity-Verification</tags>
+  </metadata>
+
+<files>
+<file src="bin\Debug\netcoreapp3.1\Identityfy.dll" target="bin\Debug\netcoreapp3.1\Identityfy.dll" />
+<file src="Identityfy.jpeg" target="Identityfy.jpeg"/>
+</files>
+</package>
